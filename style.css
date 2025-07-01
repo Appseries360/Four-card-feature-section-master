@@ -134,7 +134,7 @@ body {
        left: 25%;
     }
 }
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
     .container {
         width: 50vw;
         height: auto;
@@ -143,19 +143,20 @@ body {
         position: relative;
         left: 25%;
     }
-    .card-2 img{
-        margin-top: 15px:
+    
         
-}
-/* @media (max-width: 375px) {
+} */
+@media (max-width: 320px) {
     .container {
-        width: 320px;
+        width: 90vw;
         height: auto;
-        max-width: 300px;
+        max-width: 280px;
         flex-direction: column;
        position: relative;
        left: 25%;
-        vertical-align: middle;
     }
-}  */
+    .card-2 img{
+        margin-top: 15px;
+    }
+}
 
