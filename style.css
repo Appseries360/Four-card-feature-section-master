@@ -136,22 +136,22 @@
 }
 @media (max-width: 480px) {
     .container {
-        width: 50vw;
-        height: auto;
-        max-width: 200px;
-        flex-direction: column;
-       position: relative;
-       left: 25%;
-    }
-}
-@media (max-width: 320px) {
-    .container {
-        width: 40vw;
+        width: 45vw;
         height: auto;
         max-width: 180px;
         flex-direction: column;
        position: relative;
-       left: 25%;
+       left: 20%;
+    }
+}
+@media (max-width: 320px) {
+    .container {
+        width: 39vw;
+        height: auto;
+        max-width: 170px;
+        flex-direction: column;
+       position: relative;
+       left: 20%;
     }
 } 
 
