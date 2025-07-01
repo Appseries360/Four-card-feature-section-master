@@ -134,7 +134,7 @@ body {
        left: 25%;
     }
 }
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
     .container {
         width: 50vw;
         height: auto;
@@ -145,12 +145,12 @@ body {
     }
     
         
-} */
+}
 @media (max-width: 320px) {
     .container {
-        width: 90vw;
+        width: 50vw;
         height: auto;
-        max-width: 280px;
+        max-width: 200px;
         flex-direction: column;
        position: relative;
        left: 25%;
