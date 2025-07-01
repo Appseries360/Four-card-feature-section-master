@@ -134,17 +134,17 @@
        left: 25%;
     }
 }
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
     .container {
-        width: 45vw;
+        width: 375px;
         height: auto;
         max-width: 180px;
         flex-direction: column;
        position: relative;
-       left: 10%;
+       left: 15%;
     }
-} */
-@media (max-width: 375px) {
+}
+/* @media (max-width: 375px) {
     .container {
         width: 320px;
         height: auto;
@@ -154,5 +154,5 @@
        left: 25%;
         vertical-align: middle;
     }
-} 
+}  */
 
