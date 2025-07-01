@@ -141,17 +141,18 @@
         max-width: 180px;
         flex-direction: column;
        position: relative;
-       left: 15%;
+       left: 10%;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 375px) {
     .container {
         width: 39vw;
         height: auto;
         max-width: 170px;
         flex-direction: column;
        position: relative;
-       left: 15%;
+       left: 10%;
+        vertical-align: middle;
     }
 } 
 
