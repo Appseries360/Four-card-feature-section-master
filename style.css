@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    height: 100vh;
+}
 .text {
     display: flex;
     justify-content: center;
@@ -32,7 +35,6 @@
     align-items: center;
     margin-top: 5%;
     gap: 20px;
-    height: 120vh;
 }
 .card {
     width: 280px;
@@ -134,13 +136,12 @@
 }
 @media (max-width: 480px) {
     .container {
-        width: 375px;
+        width: 85vw;
         height: auto;
-        max-width: 180px;
+        max-width: 240px;
         flex-direction: column;
         position: relative;
         left: 25%;
-        vertical-align: middle;
     }
     
         
