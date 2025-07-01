@@ -131,8 +131,8 @@ body {
         height: auto;
         max-width: 260px;
         flex-direction: column;
-       position: relative;
-       left: 25%;
+/*        position: relative;
+       left: 25%; */
     }
 }
 @media (max-width: 480px) {
