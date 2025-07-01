@@ -136,14 +136,15 @@ body {
 }
 @media (max-width: 480px) {
     .container {
-        width: 75vw;
+        width: 50vw;
         height: auto;
         max-width: 240px;
         flex-direction: column;
         position: relative;
         left: 25%;
     }
-    
+    .card-2 img{
+        margin-top: 15px:
         
 }
 /* @media (max-width: 375px) {
