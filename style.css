@@ -124,7 +124,7 @@
     margin-top: 25px;
     margin-right: 20px;
 }
-/* @media (max-width: 1024px) {
+ @media (max-width: 1024px) {
     .container {
         width: 60vw;
         height: auto;
@@ -136,32 +136,24 @@
 }
 @media (max-width: 480px) {
     .container {
-        width: 75vw;
+        width: 375px;
         height: auto;
         max-width: 240px;
         flex-direction: column;
        position: relative;
-       left: 20%;
+       left: 25%;
         vertical-align: middle;
     }
-}
-@media (max-width: 320px) {
+} 
+@media (max-width: 375px) {
     .container {
-        width: 80vw;
+        width: 320px;
         height: auto;
         max-width: 280px;
         flex-direction: column;
        position: relative;
-       left: 20%;
+       left: 25%;
        vertical-align: middle;
     }
-} */
-@media only screen and (min-device-width: 320px) and (max-device-width: 1440px) {
-        width: 80vw;
-        height: auto;
-        max-width: 280px;
-        flex-direction: column;
-        position: relative;
-        left: 25%;
-        vertical-align: middle;
-}
+} 
+
