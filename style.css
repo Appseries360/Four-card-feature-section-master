@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-body {
-    height: 180vh;
-}
+
 .text {
     display: flex;
     justify-content: center;
@@ -158,6 +156,8 @@ body {
          position: relative;
         right: 10px;
     }
+    body {
+        height: 180vh;
     .card-2 img{
         margin-top: 10px;
     }
