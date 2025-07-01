@@ -156,7 +156,7 @@ body {
         max-width: 180px;
         flex-direction: column;
          position: relative;
-        right: 15px;
+        right: 10px;
     }
     .card-2 img{
         margin-top: 10px;
