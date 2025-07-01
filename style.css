@@ -135,7 +135,7 @@
 @media (max-width: 480px) {
     .container {
         width: 85vw;
-        height: auto;
+        height: 100vh;
         max-width: 240px;
         flex-direction: column;
        position: relative;
@@ -145,7 +145,7 @@
 @media (max-width: 320px) {
     .container {
         width: 90vw;
-        height: auto;
+        height: 100vh;
         max-width: 280px;
         flex-direction: column;
        position: relative;
